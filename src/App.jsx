@@ -1,4 +1,4 @@
-import HEADER from './components/header';
+import HEADER from './components/HEADER';
 import ToDoList from './components/ToDoList';
 
 function App() {
